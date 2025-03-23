@@ -1,2 +1,2 @@
 # X-Bot
-X bot which tracks trending posts and hashtags.
+X(Twitter) bot which tracks trending posts and hashtags.
